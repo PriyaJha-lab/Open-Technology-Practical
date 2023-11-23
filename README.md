@@ -1,1 +1,1 @@
-# Open-Technology-Practical
+print("Hello World)
